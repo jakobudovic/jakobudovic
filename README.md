@@ -4,9 +4,10 @@
 My short summary:
 - 🎓 BSc in computer science and informatics
 - 🌍 Based in: Ljubljana, Slovenia
-- 🧠 Interests: AI, ML, Deep learning, Data Science, Software engineering, Computer vision, Muscle hypertrophy & biomechanics
-- 🤔 Currently wondering: Why does a tire company decide the best places to eat
+- 🧠 Interests: AI, ML, Deep learning, Data Science, Software engineering, Computer vision
+- 🏌️‍♀️ Other interests: Muscle hypertrophy & biomechanics, Teaching
 - 📫 How to reach me: Linkedin, jakobudovic2@gmail.com
+- 🤔 Currently wondering: Why does a tire company decide the best places to eat
 
 <!--
 **jakobudovic/jakobudovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
