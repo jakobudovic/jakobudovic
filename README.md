@@ -4,7 +4,7 @@
 My short summary:
 - 🎓 BSc in computer science and informatics
 - 🌍 Based in: Ljubljana, Slovenia
-- 🧠 Interests: AI, ML, Deep learning, Data Science, Software engineering, Computer vision
+- 🧠 Interests: AI, ML, Deep learning, Data Science, Software engineering, Computer vision, Muscle hypertroph
 - 🤔 Currently wondering: Why does a tire company decide the best places to eat
 - 📫 How to reach me: Linkedin, jakobudovic2@gmail.com
 
