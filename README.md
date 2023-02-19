@@ -6,7 +6,7 @@ My short summary:
 - 🌍 Based in: Ljubljana, Slovenia
 - 🧠 Interests: AI, ML, Deep learning, Data Science, Software engineering, Computer vision
 - 🏌️‍♀️ Other interests: Muscle hypertrophy & biomechanics, Teaching
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jakobudovic/), jakobudovic2@gmail.com
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/jakobudovic/" target="_blank">Linkedin</a>, jakobudovic2@gmail.com
 - 🤔 Currently wondering: Why does a tire company decide the best places to eat?
 
 <!--
