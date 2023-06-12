@@ -4,8 +4,7 @@
 My short summary:
 - 🎓 BSc in computer science and informatics @ FRI (Slovenia)
 - 📚 pursuing MSc in Data engineering and analytics @ TUM (Germany)
-- 📌 Based in: München, Germany
-- 🧠 Interests: AI, ML, Deep learning, Data Science, Software engineering, Computer vision
+- 🧠 Interests: ML, Deep learning, Data Science, Software engineering
 - 🏌️‍♀️ Other interests: Muscle hypertrophy & biomechanics, Teaching
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/jakobudovic/" target="_blank">Linkedin</a>, jakobudovic2@gmail.com
 - 🤔 Currently wondering: Why does a tire company decide the best places to eat?
